@@ -1,1 +1,0 @@
-# quarkx-model
